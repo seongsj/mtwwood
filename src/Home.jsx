@@ -1,1 +1,7 @@
-// Home 컴포넌트 코드는 이후 삽입 예정
+export default function Home() {
+  return (
+    <div>
+      홈 화면입니다.
+    </div>
+  );
+}
